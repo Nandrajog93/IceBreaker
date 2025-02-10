@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ice_breaker_2025/chating_page.dart';
+import 'chating_page.dart';
 
 class MyWidget extends StatefulWidget {
   const MyWidget({super.key});
