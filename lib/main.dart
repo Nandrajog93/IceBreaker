@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ice_breaker_2025/map_pages.dart';
 import 'MyHomePage.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: MyWidget(), // Ensure MyWidget is defined
+      home: Maps(), // Ensure MyWidget is defined
     );
   }
 }
