@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'dart:ffi';
+//import 'dart:ffi';
 
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
@@ -153,7 +153,7 @@ class _MapsState extends State<Maps> {
       googleApiKey: GOOGLE_MAPS_API_KEYS,
       request: PolylineRequest(
         origin: PointLatLng(yourlocation.latitude, yourlocation.longitude),
-        destination: PointLatLng(_currentP!.latitude, _currentP!.longitude),
+        destination: PointLatLng(herlocation.latitude, herlocation.longitude),
         mode: TravelMode.driving,
       ),
     );
