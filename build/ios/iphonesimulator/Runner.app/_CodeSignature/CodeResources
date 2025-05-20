@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		vKadb6YZUjVwqIX+QXSsHPmkk9o=
+		rOzQVd7Z0jmKdAf6pEtG2RhQZEE=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		FvNzuC8JjggXvfE5r3aRGfyFy94=
+		c081q2+SgwO6hfmdh2K2hckndnk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		DIwi7cNDnkn/1p7MqIposIbUC9U=
+		ln3mblHm7EH0aYOcTkzOt0VF5OA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		zOQ5bXOiVoQ/eotcY19yJto4a/U=
+		SEKqIB3T/QLl1scHZ2DlSjvhHVE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -184,6 +184,26 @@
 		<data>
 		ipm8hg7aB3LzsfShJfpNR0QQ4hw=
 		</data>
+		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
+		<data>
+		nz4BlvGkf/306abYzRJB95IiIq0=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/_CodeSignature/CodeResources</key>
+		<data>
+		CNFTST1iCOn2Ypw1/Hh+1T7E3Hs=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
+		<data>
+		0YOq90Mj3CZ/ygIaFNQgDCIZIxA=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
+		<data>
+		s4fM4TgTQzf7bBfRDpd3DmoEs9c=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		KFiVi4mWKmBFkTjfe3H4jsOvLNM=
+		</data>
 		<key>Frameworks/location.framework/Info.plist</key>
 		<data>
 		QkITQXdH5LP4XuzovDU23LH03ks=
@@ -195,6 +215,26 @@
 		<key>Frameworks/location.framework/location</key>
 		<data>
 		joheYUDj8wKqczJHXs08RrctZDc=
+		</data>
+		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
+		<data>
+		ZF+c7JFCBrId+NRIgb2vvoxCWYo=
+		</data>
+		<key>Frameworks/url_launcher_ios.framework/_CodeSignature/CodeResources</key>
+		<data>
+		NxGnSnCgAYsq8wnzCgPFIfh+gXg=
+		</data>
+		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
+		<data>
+		1+fv4NTAp28WUS5mNLoTB9IBAXA=
+		</data>
+		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
+		<data>
+		7Gv7G+0Glh88qidWGcMn3Oti56I=
+		</data>
+		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/LX0ZlwxwIAIhjZaDB8EiH5KpXA=
 		</data>
 		<key>GoogleMapsResources.bundle/GoogleMaps.bundle/Assets.car</key>
 		<data>
@@ -1109,7 +1149,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vuBjDUtLQ1Wp9ZH0+0mp3raOcpjaDm+lyXpFuk+eUsE=
+			vhr5Qe8v3gXbpgDeMfDOM2pj5LjMx53c4eMh+3qNvoc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -1123,7 +1163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w659JGrk6h1WUHlvgFKNnkOAINDtCBPdXlaP4+jQMy4=
+			WFgtCCHnNyvURSxg0iY7IjhhWzub5TqzJm1HlN+FP5s=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -1151,7 +1191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qCnJKfGov8WS1vZj5DlULT5HpFpUk8uW8FLDV15WhTg=
+			ltO12WLYv3Q5oMRgERQHr6px0IKCiWkd0PMd6LHD8hc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -1172,7 +1212,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/Z4hOpTyQ2JM3ftTEXNXJYXaatbD6kA1zpSASDzAzM=
+			bGkq7BQp+4k6Jtu/CMVG6/ONzgPLE3ZOszXGanLVeNA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1350,6 +1390,41 @@
 			wSU3Ai74GJkae/7UGnbY1q6WL/vA5lEax2Kl0IRef3w=
 			</data>
 		</dict>
+		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XSMs+fsGMOSMy8W/XHhB6jSqpCxuWkPKWTKquCtbo8g=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NkJ3hKGlrtsbL6l+8q/uGmWlnqlwxNw+mJ+7C673r2s=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CTL8x+Q7SYF9ixY9frgR1987IYMzHlzKdmfRZfV8rXw=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rYoFX2dG68YHd/NZ6BUirvu2iFnm2nOuYRR9+NzVzho=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p+c+xOFN/pYr5bFknUH/y01YGEb8+JJchzbtJ60mdTI=
+			</data>
+		</dict>
 		<key>Frameworks/location.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1369,6 +1444,41 @@
 			<key>hash2</key>
 			<data>
 			UxxTo7IaCMmVq+XRD6i87KZI5SKKJqCDfB0T3Wr99KA=
+			</data>
+		</dict>
+		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ESoccMbJtdtpESrA4u8khEHZML8LY5cltgD+z5VmP2g=
+			</data>
+		</dict>
+		<key>Frameworks/url_launcher_ios.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			63jmcHXeM3O1LmApveneyvnXSU5txSPiGFu99ZZt6kY=
+			</data>
+		</dict>
+		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8Rjob7hhb0OIr9nEv8i/+6T3CvWKOEd61sNGGN2FFuA=
+			</data>
+		</dict>
+		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ti9vPBIzQK0gDXubCkB5/D/flXRW5Zz4DDMlPYrr35c=
+			</data>
+		</dict>
+		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bS2g2NkwIn1CjB2TY7CtbjoS4sm2jFzilxWKdBL8jDE=
 			</data>
 		</dict>
 		<key>GoogleMapsResources.bundle/GoogleMaps.bundle/Assets.car</key>

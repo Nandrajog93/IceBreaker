@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:geolocator/geolocator.dart';
 import 'package:ice_breaker_2025/MyHomePage.dart';
 import 'package:ice_breaker_2025/main.dart';
+import 'package:ice_breaker_2025/send_maps.dart';
 
 void main() {
   runApp(const IceBreakerApp());
@@ -142,7 +144,7 @@ class _CustomButtonState extends State<CustomButton> {
     if (widget.text == 'Yes') {
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => MyWidget()),
+        MaterialPageRoute(builder: (context) => SendLocation()),
       );
     } else {
       Navigator.push(
