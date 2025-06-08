@@ -1,0 +1,1 @@
+ /Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/.dart_tool/flutter_build/bbc820af41e4b54929f0388839087e36/native_assets.yaml: 

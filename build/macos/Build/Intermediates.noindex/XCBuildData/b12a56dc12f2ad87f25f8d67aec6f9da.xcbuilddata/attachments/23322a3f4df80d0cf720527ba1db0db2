@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-master.dia",
+    "emit-module-dependencies" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/url_launcher_macos-master.swiftdeps"
+  },
+  "/Users/nandrajog/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/macos/url_launcher_macos/Sources/url_launcher_macos/messages.g.swift" : {
+    "const-values" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g.swiftconstvalues",
+    "dependencies" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g.d",
+    "diagnostics" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g.o",
+    "llvm-bc" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g.bc",
+    "object" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g.o",
+    "swift-dependencies" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g.swiftdeps",
+    "swiftmodule" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/messages.g~partial.swiftmodule"
+  },
+  "/Users/nandrajog/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/macos/url_launcher_macos/Sources/url_launcher_macos/UrlLauncherPlugin.swift" : {
+    "const-values" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.swiftconstvalues",
+    "dependencies" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.d",
+    "diagnostics" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.o",
+    "llvm-bc" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.bc",
+    "object" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.o",
+    "swift-dependencies" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin.swiftdeps",
+    "swiftmodule" : "/Users/nandrajog/Downloads/2025/ice_breaker_2025/IceBreaker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/arm64/UrlLauncherPlugin~partial.swiftmodule"
+  }
+}
